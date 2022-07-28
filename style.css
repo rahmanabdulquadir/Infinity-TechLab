@@ -1,0 +1,9 @@
+/* modal section custom style  */
+.modal-sec{
+  max-width: 80%;
+  height: 250px;
+  margin: auto;
+  border-radius: 12px;
+  margin-top: 80px;
+  padding: 25px;
+}
